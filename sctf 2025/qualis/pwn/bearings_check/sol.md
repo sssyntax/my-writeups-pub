@@ -1,5 +1,11 @@
-# solution for bearings check
-## category: pwn
+# challenge details
+category: pwn
+author: whywhy
+points: i dont remember
+solves: 15
+# description
+Every pwner has had to gain their bearings at least once. Can you gain yours?
+# sol
 firstly, i check the protections of the file. 
 ```bash
 pwndbg> checksec
